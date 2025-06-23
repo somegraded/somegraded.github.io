@@ -15,6 +15,7 @@ This is in the context of a Hackathon in the company I work[^1].
 
 How can a section be shown/hide? We don't know yet. Just try.
 
+<details>
 ## section 1a - what we know
 
 First we need to see if the sections are inside a `<div>`. 
@@ -25,10 +26,11 @@ If not it will be difficult to join all of its paragraphs.
 
 <input type=checkbox className="show-hide-next"/>
 <div>
-Another posibility is to add manuall a <div> tag enclosing the paragraphs.
+Another posibility is to add manuall a `div` tag enclosing the paragraphs.
 
 In that way we have it them all together.
 </div>
+</details>
 
 ----
 [^1]: [SimCorp](https://www.simcorp.com/).
