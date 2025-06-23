@@ -6,3 +6,5 @@ url: https://somegraded.github.io
 
 aux_links:
   The source: https://github.com/somegraded/somegraded.github.io
+
+enable_copy_code_button: true
