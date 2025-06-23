@@ -23,9 +23,9 @@ If not it will be difficult to join all of its paragraphs.
 
 ## section 1b - what we can try
 
-<checkbox className="show-hide-next">
+<input type=checkbox className="show-hide-next"/>
 <div>
-Another posibility is to add manuall a `<div>` tag enclosing the paragraphs.
+Another posibility is to add manuall a <div> tag enclosing the paragraphs.
 
 In that way we have it them all together.
 </div>
