@@ -37,5 +37,16 @@ In that way we have it them all together.
 
 </details>
 
+<details>
+<summary>Table inside a container</summary>
+ 
+| **head1**        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+</details>
+
 ----
 [^1]: [SimCorp](https://www.simcorp.com/).
